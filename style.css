@@ -1,0 +1,16 @@
+html { 
+    background: url(./bg1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  div {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 35vh;
+  }
